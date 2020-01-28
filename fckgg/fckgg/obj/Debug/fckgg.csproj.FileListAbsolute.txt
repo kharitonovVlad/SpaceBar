@@ -1,0 +1,77 @@
+C:\Users\vinny\source\repos\fckgg\fckgg\obj\Debug\App.g.cs
+C:\Users\vinny\source\repos\fckgg\fckgg\obj\Debug\fckgg_MarkupCompile.cache
+C:\Users\vinny\source\repos\fckgg\fckgg\bin\Debug\fckgg.exe.config
+C:\Users\vinny\source\repos\fckgg\fckgg\bin\Debug\fckgg.exe
+C:\Users\vinny\source\repos\fckgg\fckgg\bin\Debug\fckgg.pdb
+C:\Users\vinny\source\repos\fckgg\fckgg\obj\Debug\MainWindow.g.cs
+C:\Users\vinny\source\repos\fckgg\fckgg\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vinny\source\repos\fckgg\fckgg\obj\Debug\fckgg_MarkupCompile.lref
+C:\Users\vinny\source\repos\fckgg\fckgg\obj\Debug\MainWindow.baml
+C:\Users\vinny\source\repos\fckgg\fckgg\obj\Debug\fckgg.g.resources
+C:\Users\vinny\source\repos\fckgg\fckgg\obj\Debug\fckgg.Properties.Resources.resources
+C:\Users\vinny\source\repos\fckgg\fckgg\obj\Debug\fckgg.csproj.GenerateResource.cache
+C:\Users\vinny\source\repos\fckgg\fckgg\obj\Debug\fckgg.exe
+C:\Users\vinny\source\repos\fckgg\fckgg\obj\Debug\fckgg.pdb
+C:\Users\vinny\source\repos\fckgg\fckgg\obj\Debug\fckgg.csprojAssemblyReference.cache
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\App.g.cs
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\fckgg.Properties.Resources.resources
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\fckgg.csproj.GenerateResource.cache
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\fckgg.csproj.CoreCompileInputs.cache
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\bin\Debug\MaterialDesignColors.dll
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\fckgg.csproj.CopyComplete
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\App.baml
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\View\MainWindow.g.cs
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\View\MainWindow.baml
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\View\MainUserControl.g.cs
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\View\MainUserControl.baml
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\View\OrdersUserControl.g.cs
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\View\OrdersUserControl.baml
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\View\OptionsUserControl.g.cs
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\View\OptionsUserControl.baml
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\View\OrderWindow.g.cs
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\View\OrderWindow.baml
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\fckgg.csprojAssemblyReference.cache
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\bin\Debug\Space Bar.exe.config
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\bin\Debug\Space Bar.exe
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\bin\Debug\Space Bar.pdb
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\Space Bar_MarkupCompile.cache
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\Space Bar_MarkupCompile.lref
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\Space Bar.g.resources
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\Space Bar.exe
+C:\Users\vinny\Desktop\Новая папка\fckgg\fckgg\obj\Debug\Space Bar.pdb
+C:\Users\vinny\space_bar\fckgg\fckgg\bin\Debug\Space Bar.exe.config
+C:\Users\vinny\space_bar\fckgg\fckgg\bin\Debug\Space Bar.exe
+C:\Users\vinny\space_bar\fckgg\fckgg\bin\Debug\Space Bar.pdb
+C:\Users\vinny\space_bar\fckgg\fckgg\bin\Debug\MaterialDesignColors.dll
+C:\Users\vinny\space_bar\fckgg\fckgg\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vinny\space_bar\fckgg\fckgg\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vinny\space_bar\fckgg\fckgg\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vinny\space_bar\fckgg\fckgg\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\fckgg.csprojAssemblyReference.cache
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\View\OrderWindow.g.cs
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\View\MainWindow.g.cs
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\View\MainUserControl.g.cs
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\View\OrdersUserControl.g.cs
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\View\OptionsUserControl.g.cs
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\App.g.cs
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\Space Bar_MarkupCompile.cache
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\Space Bar_MarkupCompile.lref
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\App.baml
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\View\OrderWindow.baml
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\View\MainWindow.baml
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\View\MainUserControl.baml
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\View\OrdersUserControl.baml
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\View\OptionsUserControl.baml
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\Space Bar.g.resources
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\fckgg.Properties.Resources.resources
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\fckgg.csproj.GenerateResource.cache
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\fckgg.csproj.CoreCompileInputs.cache
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\fckgg.csproj.CopyComplete
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\Space Bar.exe
+C:\Users\vinny\space_bar\fckgg\fckgg\obj\Debug\Space Bar.pdb

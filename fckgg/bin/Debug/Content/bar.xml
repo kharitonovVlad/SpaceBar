@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DrinkList name="Foreign Currency Market">
+  <Drink id="0">
+    <Pic>Resources/Assets/1.jpg</Pic>
+    <Price>180</Price>
+    <Title>Пиво</Title>
+    <Id>0</Id>
+  </Drink>
+  <Drink id="1">
+    <Pic>Resources/Assets/3.jpg</Pic>
+    <Price>305</Price>
+    <Title>Вино</Title>
+    <Id>1</Id>
+  </Drink>
+  <Drink id="2">
+    <Pic>Resources/Assets/4.jpg</Pic>
+    <Price>225</Price>
+    <Title>Мартини</Title>
+    <Id>2</Id>
+  </Drink>
+  <Drink id="3">
+    <Pic>Resources/Assets/5.jpg</Pic>
+    <Price>250</Price>
+    <Title>Ликер</Title>
+    <Id>3</Id>
+  </Drink>
+  <Drink id="4">
+    <Pic>Resources/Assets/6.jpg</Pic>
+    <Price>300</Price>
+    <Title>Виски</Title>
+    <Id>4</Id>
+  </Drink>
+  <Drink id="5">
+    <Pic>Resources/Assets/7.png</Pic>
+    <Price>250</Price>
+    <Title>Коньяк</Title>
+    <Id>5</Id>
+  </Drink>
+  <Drink id="6">
+    <Pic>Resources/Assets/8.jpg</Pic>
+    <Price>295</Price>
+    <Title>Абсент</Title>
+    <Id>6</Id>
+  </Drink>
+  <Drink id="7">
+    <Pic>Resources/Assets/9.jpg</Pic>
+    <Price>255</Price>
+    <Title>Текила</Title>
+    <Id>7</Id>
+  </Drink>
+  <Drink id="8">
+    <Pic>Resources/Assets/10.jpg</Pic>
+    <Price>170</Price>
+    <Title>Водка</Title>
+    <Id>8</Id>
+  </Drink>
+  <Drink id="9">
+    <Pic>Resources/Assets/11.jpg</Pic>
+    <Price>290</Price>
+    <Title>Джин</Title>
+    <Id>9</Id>
+  </Drink>
+  <Drink id="10">
+    <Pic>Resources/Assets/13.jpg</Pic>
+    <Price>100</Price>
+    <Title>Кола</Title>
+    <Id>10</Id>
+  </Drink>
+  <Drink id="11">
+    <Pic>Resources/Assets/14.jpg</Pic>
+    <Price>100</Price>
+    <Title>Швепс</Title>
+    <Id>11</Id>
+  </Drink>
+  <Drink id="12">
+    <Pic>Resources/Assets/15.jpeg</Pic>
+    <Price>140</Price>
+    <Title>Кофе</Title>
+    <Id>12</Id>
+  </Drink>
+</DrinkList>

@@ -1,0 +1,57 @@
+﻿<Window x:Class="fckgg.OrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:fckgg"
+        mc:Ignorable="d"
+        Title="ChildWindow" Height="450" Width="800" ResizeMode="NoResize" WindowStyle="None" Background="#FF6C3364">
+    <Window.Resources>
+        <local:DateTimeToDateConverter x:Key="myDateConverter" />
+    </Window.Resources>
+    <Grid Background="#FF0E0E0E">
+        <Grid.DataContext>
+            <local:ViewModel/>
+        </Grid.DataContext>
+        <Grid Margin="5" Background="#FF0E0E0E" MouseDown="Grid_MouseDown" Height="30" VerticalAlignment="Top">
+            <Button x:Name="ButtonClose" Height="30" Width="40" HorizontalAlignment="Right" Background="{x:Null}" BorderBrush="{x:Null}" Padding="0" Foreground="White" Click="ButtonClose_Click">
+                <materialDesign:PackIcon Kind="Close" Height="25" Width="25"/>
+            </Button>
+        </Grid>
+
+        <local:ContextHolder>
+            <local:ContextHolder.Commands>
+                <local:CommandBinding RoutedCommand="{x:Static ApplicationCommands.SaveAs}" RelayCommand="{Binding ExcelCommand}"/>
+            </local:ContextHolder.Commands>
+            <StackPanel>
+                <ItemsControl x:Name="ListViewPro" ItemsSource="{Binding Names}" Margin="0 30 0 0" Height="300">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Border Width="Auto" Height="Auto" Margin="0 0 0 15">
+                                <StackPanel Orientation="Horizontal" >
+                                    <TextBlock Foreground="White" Width="215" FontSize="22" FontFamily="Franklin Gothic Medium" Text="{Binding Title}" Margin="15 0 0 0"/>
+                                    <TextBlock Foreground="White" Width="100" FontSize="22" FontFamily="Franklin Gothic Medium" Text="{Binding Count}" Margin="15 0 0 0"/>
+
+
+                                </StackPanel>
+                            </Border>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <WrapPanel/>
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                </ItemsControl>
+                <Button Command="{x:Static ApplicationCommands.SaveAs}" CommandParameter="{Binding}" Content="Excel" FontFamily="BankGothic Lt BT" Width="100" Height="45" Margin="0 20 0 0" Background="{x:Null}" BorderBrush="White" Foreground="White"/>
+
+            </StackPanel>
+        </local:ContextHolder>
+        <StackPanel Orientation="Horizontal" Margin="0 0 0 100" Height="30" VerticalAlignment="Bottom">
+            <TextBlock Foreground="White" Width="215" FontSize="22" FontFamily="Franklin Gothic Medium" Text="{Binding DateTimes, Converter={StaticResource myDateConverter}}" Margin="15 0 0 0"/>
+            <TextBlock Foreground="White" Width="100" FontSize="22" FontFamily="Franklin Gothic Medium" Text="{Binding Total, StringFormat={}{0} Р}" Margin="15 0 0 0"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
