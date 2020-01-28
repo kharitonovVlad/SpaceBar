@@ -11,7 +11,7 @@ namespace fckgg.Controllers
         public static void ExportOrderToExel(Order order)
         {
             int Id = 1;
-            var path = Path.Combine("C:\\ExcelTekst.xlsx");
+            var path = Path.Combine("/ExcelTekst.xlsx");
             var ExcelApp = new Excel.Application();
             ExcelApp.Visible = true;
             var book = ExcelApp.Workbooks.Open(path);
@@ -34,7 +34,7 @@ namespace fckgg.Controllers
         {
             int Id = 1;
             int Total = 0;
-            var path = Path.Combine("C:\\ExcelAll.xlsx");
+            var path = Path.Combine("/ExcelAll.xlsx");
             var ExcelApp = new Excel.Application();
             ExcelApp.Visible = true;
             var book = ExcelApp.Workbooks.Open(path);
